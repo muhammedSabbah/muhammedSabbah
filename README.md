@@ -2,6 +2,18 @@
 
 I am Muhammed Sabbah, a passionate and creative developer from Egypt with a strong interest in Open-Source. 🎯
 
+
+Languages
+Python JavaScript C Java TypeScript C++ SQL Swift
+
+Technologies
+AWS Docker Kubernetes Linux Node.js PyTorch React Redis Spring TensorFlow
+
+Full Stack Projects
+      
+
+Cybersecurity Projects
+     
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
