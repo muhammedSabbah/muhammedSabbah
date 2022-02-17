@@ -27,6 +27,13 @@ Some of the technologies I have worked with
 ![alt text](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 
+
+Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+
+// Which came first: the chicken or the egg?
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
