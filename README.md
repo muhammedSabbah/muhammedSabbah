@@ -18,6 +18,13 @@ Technologies
 ![alt text](https://camo.githubusercontent.com/ca1ee2827d565c2c5567e699f3de6ab1e8522d15fff9a0c765c256786b73f232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4157532d3030303f266c6f676f3d416d617a6f6e2d415753266c6f676f436f6c6f723d463930)
 ![alt text](https://camo.githubusercontent.com/d55267447719050ab5ebca59a39b16b7161fb1231c85105dc7485cb21f4ca449/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3030303f266c6f676f3d446f636b6572)
 ![alt text](https://camo.githubusercontent.com/e49d83c1933e6b5006ee0b933a7011b344814748ecbed651dd8d547d9b371c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b756265726e657465732d3030303f266c6f676f3d4b756265726e65746573)
+
+
+Some of the technologies I have worked with
+
+![alt text](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![alt text](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
