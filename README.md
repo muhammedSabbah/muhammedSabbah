@@ -24,6 +24,8 @@ Some of the technologies I have worked with
 
 ![alt text](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![alt text](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![alt text](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+
 
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
