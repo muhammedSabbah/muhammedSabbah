@@ -22,9 +22,10 @@ Technologies
 
 Some of the technologies I have worked with
 
+![alt text](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+![alt text](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![alt text](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![alt text](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![alt text](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 
 
