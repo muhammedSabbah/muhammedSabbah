@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Muhammed Sabbah, a passionate and creative developer from Egypt with a strong interest in Open-Source. 🎯
+
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
