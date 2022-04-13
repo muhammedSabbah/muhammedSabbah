@@ -6,6 +6,10 @@
 
 I mostly work on Backend development with Spring Framework ( JAVA ) and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker AWS, CI/CD, etc. and proficient with metric collection & monitoring tools.
 
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **mohamed.farouk@cis.asu.edu.eg**
+
 Languages
 
 ![alt text](https://camo.githubusercontent.com/4a6e72af302f06613ef9375d1bd0cfed0592654a0eb667fed54633f688004f4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030303f266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936)
