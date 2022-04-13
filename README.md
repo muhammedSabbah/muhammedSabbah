@@ -48,6 +48,8 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <a href="https://www.facebook.com/muhammedsabbah1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedSabbah&show_icons=true&locale=en&layout=compact" alt="muhammedSabbah" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedSabbah&show_icons=true&locale=en" alt="muhammedSabbah" /></p>
 
 <!--
