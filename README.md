@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align=center>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
 
 I am Muhammed Sabbah, a passionate and creative developer from Egypt with a strong interest in Open-Source. 🎯
 
