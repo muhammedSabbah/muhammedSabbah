@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I'm Muhammed Sabbah</h1>
+<h3 align="center">A passionate and creative developer from Egypt with a strong interest in Open-Source. 🎯</h3>
 <div align=center>
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
-
-A passionate and creative developer from Egypt with a strong interest in Open-Source. 🎯
 
 I mostly work on Backend development with Spring Framework ( JAVA ) and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker AWS, CI/CD, etc. and proficient with metric collection & monitoring tools.
 
