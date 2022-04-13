@@ -41,7 +41,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 <p align="left">
 <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarelsherif010" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammedsabbah1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
-<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhammedsabbah1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
 </p>
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
