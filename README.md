@@ -30,14 +30,19 @@ Some of the technologies I have worked with
 ![alt text](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![alt text](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-
-
 Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 
 // Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarelsherif010" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammedsabbah1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsherif010" height="30" width="40" /></a>
+<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsherifpage" height="30" width="40" /></a>
+</p>
 <!--
 **muhammedSabbah/muhammedSabbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
