@@ -7,8 +7,6 @@
 
 ![alt text](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=muhammedSabbah&repo=m&countColor=%237B1E7A)
 <br><br>
-<br>
-<br>
 
 I mostly work on Backend development with Spring Framework ( JAVA ) and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker AWS, CI/CD, etc. and proficient with metric collection & monitoring tools.
 
